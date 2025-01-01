@@ -22,7 +22,7 @@ namespace Dotnet_Assignment
             }
             else
             {
-                Console.WriteLine($"Welcome user {name}");
+                Console.WriteLine($"Welcome user :  {name}");
             }
         }
     }

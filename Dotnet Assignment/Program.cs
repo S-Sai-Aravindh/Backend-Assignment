@@ -9,7 +9,7 @@ namespace Assignment
         
         private static void Main(string[] args)
         {
-            //Console.WriteLine("Photo Book assignment");
+            //Console.WriteLine("Photo Book assignment")
             //PhotoBook p = new PhotoBook();
             //p.GetNumberPages();
 
@@ -20,7 +20,7 @@ namespace Assignment
             //b.GetNumberPages();
 
 
-            //Console.WriteLine("Inheritance");
+            Console.WriteLine("Inheritance");
 
             //Inheritance i = new Inheritance();
 

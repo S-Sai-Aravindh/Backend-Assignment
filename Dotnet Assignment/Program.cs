@@ -32,7 +32,7 @@ namespace Assignment
             //Inheritance.Student s = new Inheritance.Student(i.person[1]);
             //Inheritance.Student s1 = new Inheritance.Student(i.person[2]);
 
-            Console.Write("Enter the user name: ");
+            Console.Write("Enter the user name : ");
             string name = Console.ReadLine();
             OnlineAttendance o = new OnlineAttendance();
             Banned b = new Banned();
